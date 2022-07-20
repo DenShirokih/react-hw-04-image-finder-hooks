@@ -47,7 +47,7 @@ export default class App extends Component {
     });
   };
   handleFormSubmit = searchQuery => {
-    this.setState({ searchQuery });
+    this.setState({ searchQuery, currentPage: 1 });
   };
   toggleModal = () => {
     this.setState(({ showModal }) => ({
