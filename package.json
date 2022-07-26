@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DenShirokih.github.io/react-hw-03-image-finder",
+  "homepage": "https://DenShirokih.github.io/react-hw-04-image-finder-hooks",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
