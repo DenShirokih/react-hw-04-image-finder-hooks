@@ -19,6 +19,7 @@ export default function App() {
     if (!searchQuery) return;
 
     getImages();
+    // eslint-disable-next-line
   }, [searchQuery]);
 
   const handleFormSubmit = query => {
